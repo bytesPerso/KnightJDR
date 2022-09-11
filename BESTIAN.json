@@ -1,0 +1,2064 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-N235HZYc5PUoorzXa2e",
+        "name": "BESTIAN",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":1330,\"top\":1505,\"width\":140,\"height\":210,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/285108878/g1nGfZKlaaKYKD0Kder5Nw/max.jpg?1652558887\",\"page_id\":\"-N5yGIqw8jSPSlnNvJsY\",\"layer\":\"map\",\"show_tooltip\":false}",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "jetGM",
+                "current": "/w gm",
+                "max": "",
+                "id": "-N235Hal2Cd1ALaEhCbe"
+            },
+            {
+                "name": "tabIA",
+                "current": "1",
+                "max": "",
+                "id": "-N235Ham41fvJuMJjc7N"
+            },
+            {
+                "name": "tabIAI",
+                "current": "1",
+                "max": "",
+                "id": "-N235Ham41fvJuMJjc7O"
+            },
+            {
+                "name": "tabCarteDestin",
+                "current": "1",
+                "max": "",
+                "id": "-N235Hao7lGhFWfdMD6z"
+            },
+            {
+                "name": "tabCapaciteHeroique",
+                "current": "2",
+                "max": "",
+                "id": "-N235HapB9HRoOVHvmjz"
+            },
+            {
+                "name": "armeSPS",
+                "current": "1",
+                "max": "",
+                "id": "-N235Haqm1rx5H9Gqvic"
+            },
+            {
+                "name": "armeSME",
+                "current": "1",
+                "max": "",
+                "id": "-N235HarTxHkEtIf6Ged"
+            },
+            {
+                "name": "tabEgide",
+                "current": "1",
+                "max": "",
+                "id": "-N235HasQ49QLkXRquKL"
+            },
+            {
+                "name": "tabResilience",
+                "current": "1",
+                "max": "",
+                "id": "-N235HatLW4TROlj2B1l"
+            },
+            {
+                "name": "bardEffetAttSpe",
+                "current": "Choc 1 / Dispersion 6 / Ignore Armure / Ignore Champ de Force",
+                "max": "",
+                "id": "-N235Nc8WUkRqLIjGdTC"
+            },
+            {
+                "name": "berserkIlluminationBlazePortee",
+                "current": "Contact",
+                "max": "",
+                "id": "-N235Nc9erOOLt3d4yBK"
+            },
+            {
+                "name": "berserkIlluminationBeaconPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235Nc9erOOLt3d4yBL"
+            },
+            {
+                "name": "berserkIlluminationProjectorPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NcA6PWXJ2krqm9G"
+            },
+            {
+                "name": "berserkIlluminationLighthousePortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NcBLXPnBJIH9FFn"
+            },
+            {
+                "name": "berserkIlluminationLanternPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NcBLXPnBJIH9FFo"
+            },
+            {
+                "name": "berserkIlluminationLanternEffets",
+                "current": "Espérance",
+                "max": "",
+                "id": "-N235NcCNNTcKNBWLHmx"
+            },
+            {
+                "name": "monkVaguePortee",
+                "current": "Contact / Short",
+                "max": "",
+                "id": "-N235NcDGC32aedvVgm5"
+            },
+            {
+                "name": "monkSalvePortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcF56MkDsXkeP9f"
+            },
+            {
+                "name": "monkRayonPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcF56MkDsXkeP9g"
+            },
+            {
+                "name": "wizardBEffets",
+                "current": "Anti-Anathème / Dégâts Continus 3",
+                "max": "",
+                "id": "-N235NcG4UFym7PWpfH8"
+            },
+            {
+                "name": "wizardOEffets",
+                "current": "Affecte uniquement les créatures de l'Anathème / Anti-Anathème / Lumière 2",
+                "max": "",
+                "id": "-N235NcH1hbP2m6WATHZ"
+            },
+            {
+                "name": "MALWizardOEffets",
+                "current": "Affecte uniquement les créatures de l'Anathème / Anti-Anathème / Lumière 2",
+                "max": "",
+                "id": "-N235NcIDhMLVfDdq0x_"
+            },
+            {
+                "name": "MALWizardOPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcIDhMLVfDdq0xa"
+            },
+            {
+                "name": "traumasInsignifiants",
+                "current": "Traumas insignifiants",
+                "max": "",
+                "id": "-N235NcJo3RnoWTYrv0J"
+            },
+            {
+                "name": "traumasLegers",
+                "current": "Traumas légers",
+                "max": "",
+                "id": "-N235NcKNeh-5F_R1Qy6"
+            },
+            {
+                "name": "traumasGraves",
+                "current": "Traumas graves",
+                "max": "",
+                "id": "-N235NcKNeh-5F_R1Qy7"
+            },
+            {
+                "name": "traumasLourds",
+                "current": "Traumas Lourds",
+                "max": "",
+                "id": "-N235NcMX0CnpMJAczik"
+            },
+            {
+                "name": "MADSDPortee",
+                "current": "Contact",
+                "max": "",
+                "id": "-N235NcMX0CnpMJAczil"
+            },
+            {
+                "name": "MADSDEffetsListe",
+                "current": "Anti-Véhicule / Briser la résilience / Parasitage 2",
+                "max": "",
+                "id": "-N235NcOKPtrjdf8I2ks"
+            },
+            {
+                "name": "MAAGOfferingDuree",
+                "current": "1D3 Tours",
+                "max": "",
+                "id": "-N235NcPZ7MKlpNKIAM4"
+            },
+            {
+                "name": "MAAGOfferingPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcQh6jpkV7ZsRhQ"
+            },
+            {
+                "name": "MAAGCurseDuree",
+                "current": "1 Tour",
+                "max": "",
+                "id": "-N235NcQh6jpkV7ZsRhR"
+            },
+            {
+                "name": "MAAGCursePortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcRxBY3NNGiDj0b"
+            },
+            {
+                "name": "MAAGMiracleDuree",
+                "current": "2D6 Tours",
+                "max": "",
+                "id": "-N235NcSjevncC8Dw0hB"
+            },
+            {
+                "name": "MAAGMiraclePortee",
+                "current": "Contact",
+                "max": "",
+                "id": "-N235NcTrK1Q0IC9ZvkD"
+            },
+            {
+                "name": "MAAGEvacuationDuree",
+                "current": "1 Tour",
+                "max": "",
+                "id": "-N235NcV_MC9vZl_0B01"
+            },
+            {
+                "name": "MAAGEvacuationPortee",
+                "current": "Zone entière",
+                "max": "",
+                "id": "-N235NcWksJINz2CJd2c"
+            },
+            {
+                "name": "MANOGInvulnerabilitePortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NcX-AsAlvP5DLz_"
+            },
+            {
+                "name": "MANOGInvulnerabiliteDuree",
+                "current": "2D6 Tours",
+                "max": "",
+                "id": "-N235NcZ6NmMvhWw11Br"
+            },
+            {
+                "name": "MANOGInvulnerabiliteEffets",
+                "current": "Invulnérabilité",
+                "max": "",
+                "id": "-N235Nc_a6MNtZKdHflh"
+            },
+            {
+                "name": "MANOGStationPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235Ncar5sgOeW1klfq"
+            },
+            {
+                "name": "MANOGStationDuree",
+                "current": "Sans limite",
+                "max": "",
+                "id": "-N235Ncar5sgOeW1klfr"
+            },
+            {
+                "name": "MANMJEffetsL",
+                "current": "Anti-Anathème / Anti-Véhicule / Briser la résilience / Démoralisant",
+                "max": "",
+                "id": "-N235Ncb36_lWNCbXwOB"
+            },
+            {
+                "name": "MANMJPortee",
+                "current": "Lointaine",
+                "max": "",
+                "id": "-N235Ncc44WSh59sVIoM"
+            },
+            {
+                "name": "MADAPSEffets",
+                "current": "Après une attaque contre une cible unique (et après avoir appliqué les dégâts), le Demon peut toujours appliquer la violence des poings soniques à une bande située à portée contact ou courte courte.",
+                "max": "",
+                "id": "-N235NcdVd5gFPmXCZKP"
+            },
+            {
+                "name": "MADAPSPortee",
+                "current": "Contact",
+                "max": "",
+                "id": "-N235NcdVd5gFPmXCZKQ"
+            },
+            {
+                "name": "MADACSPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235Ncem-gkS0DCl9is"
+            },
+            {
+                "name": "MADACSEffets",
+                "current": "Choc 6 / Choc 4 / Choc 2",
+                "max": "",
+                "id": "-N235NcfBZWilNjrgMmK"
+            },
+            {
+                "name": "MANSautPortee",
+                "current": "Long",
+                "max": "",
+                "id": "-N235Ncg7tKcBU_PjE78"
+            },
+            {
+                "name": "MANSautHauteur",
+                "current": "Long",
+                "max": "",
+                "id": "-N235NchhjWnnT9KW04l"
+            },
+            {
+                "name": "MANSautDuree",
+                "current": "1 Tour",
+                "max": "",
+                "id": "-N235Nciov3NQNh4eEt5"
+            },
+            {
+                "name": "MANEmblemPortee",
+                "current": "Long",
+                "max": "",
+                "id": "-N235NcjDzB9rZ0IJMqN"
+            },
+            {
+                "name": "MADSautPortee",
+                "current": "Long",
+                "max": "",
+                "id": "-N235NckdyrbSO9Yg_tW"
+            },
+            {
+                "name": "MADSautHauteur",
+                "current": "Long",
+                "max": "",
+                "id": "-N235NckdyrbSO9Yg_tX"
+            },
+            {
+                "name": "MADSautDuree",
+                "current": "1 Tour",
+                "max": "",
+                "id": "-N235Nclcv6cE7zrI-wK"
+            },
+            {
+                "name": "MAAVagueSoinPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235Ncm60EpWzS1doEh"
+            },
+            {
+                "name": "MANDronesAirainDuree",
+                "current": "Sans limite",
+                "max": "",
+                "id": "-N235NcnuuTLIcpLr9oN"
+            },
+            {
+                "name": "MANDronesAirainPortee",
+                "current": "Long",
+                "max": "",
+                "id": "-N235NcnuuTLIcpLr9oO"
+            },
+            {
+                "name": "MAAMIPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NcoFEKtxaIX44J7"
+            },
+            {
+                "name": "MAACanonMetatronEffets",
+                "current": "Anti-Véhicule / Briser la résilience / Dégâts Continus 10 / Parasitage 2",
+                "max": "",
+                "id": "-N235NcpsjdM5Jk-dkYK"
+            },
+            {
+                "name": "MAACanonMetatronPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcqPajts22evpo0"
+            },
+            {
+                "name": "MANCanonMagmaEffets",
+                "current": "Anti-Anathème / Anti-Véhicule / Briser la résilience / Dispersion 12 / Fureur",
+                "max": "",
+                "id": "-N235NcrjAHrKgKANKs-"
+            },
+            {
+                "name": "MANCanonMagmaPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235NcsTXbT_SN_FgzT"
+            },
+            {
+                "name": "MADLCGEffets",
+                "current": "Spécial – Le Demon peut dépenser 1 noyau d’énergie pour obtenir l’effet pénétrant 10. Il peut aussi en dépenser 2 pour obtenir l’effet ignore CdF.",
+                "max": "",
+                "id": "-N235Nctb9xsog1feKcO"
+            },
+            {
+                "name": "MAACanonNoePortée",
+                "current": "Long",
+                "max": "",
+                "id": "-N235Ncu78qkiasKRcVo"
+            },
+            {
+                "name": "MANMSEffetsListe",
+                "current": "Anti-Véhicule / Démoralisant / Ultraviolence",
+                "max": "",
+                "id": "-N235NcyHW-XCuhihqA-"
+            },
+            {
+                "name": "MANMSurturPortee",
+                "current": "Average",
+                "max": "",
+                "id": "-N235Ncz_Z7ObxVfoCSi"
+            },
+            {
+                "name": "MAATLAPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235Nd-ifplJoycd0Ws"
+            },
+            {
+                "name": "MAATLAEffets",
+                "current": "Anti-Anathème",
+                "max": "",
+                "id": "-N235Nd01e3Yxn7H_lVh"
+            },
+            {
+                "name": "druidLionBaseNom",
+                "current": "Coups",
+                "max": "",
+                "id": "-N235Nd11pOqrNloAcmX"
+            },
+            {
+                "name": "MALDruidLionBaseNom",
+                "current": "Coups",
+                "max": "",
+                "id": "-N235Nd11pOqrNloAcmY"
+            },
+            {
+                "name": "pSCaC",
+                "current": "Couteau de Service",
+                "max": "",
+                "id": "-N235Nd2h7zmsQFC03ZQ"
+            },
+            {
+                "name": "mECaC",
+                "current": "Marteau-Épieu (Contact)",
+                "max": "",
+                "id": "-N235Nd37L8rG3ILXZiv"
+            },
+            {
+                "name": "pSDist",
+                "current": "Pistolet de Service",
+                "max": "",
+                "id": "-N235Nd37L8rG3ILXZiw"
+            },
+            {
+                "name": "mEDist",
+                "current": "Marteau-Épieu (Distance)",
+                "max": "",
+                "id": "-N235Nd4TpuX5_R1e-J9"
+            },
+            {
+                "name": "poingCaC",
+                "current": "Coup de poing/pied",
+                "max": "",
+                "id": "-N235Nd4TpuX5_R1e-JA"
+            },
+            {
+                "name": "poingMACaC",
+                "current": "Coup de poing/pied",
+                "max": "",
+                "id": "-N235Nd5gZjaZ7xroXkE"
+            },
+            {
+                "name": "pSDistPortee",
+                "current": "^{portee-moyenne}",
+                "max": "",
+                "id": "-N235NdRXDcpLfj0T4pQ"
+            },
+            {
+                "name": "mEDistPortee",
+                "current": "^{portee-courte}",
+                "max": "",
+                "id": "-N235NdT8T7l3KKrDLno"
+            },
+            {
+                "name": "pSCaCPortee",
+                "current": "^{portee-contact}",
+                "max": "",
+                "id": "-N235NdV_EHgtraUHymd"
+            },
+            {
+                "name": "mECaCPortee",
+                "current": "^{portee-contact}",
+                "max": "",
+                "id": "-N235NdWrv40b2S-ikUe"
+            },
+            {
+                "name": "druidLionBasePortee",
+                "current": "^{portee-contact}",
+                "max": "",
+                "id": "-N235NdYZjOqjsoYOffb"
+            },
+            {
+                "name": "version",
+                "current": 17,
+                "max": "",
+                "id": "-N235Ndba7F2pYsBhMRK"
+            },
+            {
+                "name": "caracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ndcu94XKH1J2SnX"
+            },
+            {
+                "name": "caracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdeMFBOgXO4iU9D"
+            },
+            {
+                "name": "caracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdfJKJLd9Thkwf8"
+            },
+            {
+                "name": "caracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdfJKJLd9Thkwf9"
+            },
+            {
+                "name": "caracteristique1Art",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdglmqXFxkWx42U"
+            },
+            {
+                "name": "caracteristique2Art",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ndh3WFYEtPTdM-f"
+            },
+            {
+                "name": "caracteristique3Art",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdjnevXwkXn3IAf"
+            },
+            {
+                "name": "caracteristique4Art",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdkQuUvTBWcTqDJ"
+            },
+            {
+                "name": "caracteristiqueTotem1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdkQuUvTBWcTqDK"
+            },
+            {
+                "name": "caracteristiqueTotem2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdlqScDH__hz6tM"
+            },
+            {
+                "name": "caracteristiqueTotem3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdmTDlscIYZLeqo"
+            },
+            {
+                "name": "MALCaracteristiqueTotem1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdncP-bMdhqRt1r"
+            },
+            {
+                "name": "MALCaracteristiqueTotem2",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ndog0Fxp4QxxpuM"
+            },
+            {
+                "name": "caracteristique1Priest",
+                "current": "@{technique}",
+                "max": "",
+                "id": "-N235NdqSyxS-hNvOpf-"
+            },
+            {
+                "name": "caracteristique1Psion",
+                "current": "@{aura}",
+                "max": "",
+                "id": "-N235NdqSyxS-hNvOpf0"
+            },
+            {
+                "name": "aspectDruidLionBase",
+                "current": "druidLionChair",
+                "max": "",
+                "id": "-N235NdrTCEB0KNSjha4"
+            },
+            {
+                "name": "MALAspectDruidLionBase",
+                "current": "MALDruidLionChair",
+                "max": "",
+                "id": "-N235NdsuNCc2M3P7pXq"
+            },
+            {
+                "name": "caracteristique1Monk",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdtSCcBPUWh1YiC"
+            },
+            {
+                "name": "caracteristique2Monk",
+                "current": "0",
+                "max": "",
+                "id": "-N235NduPGn8IT04xDVy"
+            },
+            {
+                "name": "poingCaCPortee",
+                "current": "^{portee-contact}",
+                "max": "",
+                "id": "-N235NdwpPowaJ71nXo9"
+            },
+            {
+                "name": "poingCcaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdxtC3YQzCJ1jg4"
+            },
+            {
+                "name": "poingCcaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdytGxG1xCUfu0M"
+            },
+            {
+                "name": "poingCcaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NdzOhriVpiD1cee"
+            },
+            {
+                "name": "poingCcaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne0QwVQvd4EjMQd"
+            },
+            {
+                "name": "poingMACcaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne1d33KxlwFdZ_t"
+            },
+            {
+                "name": "poingMACcaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne221c8hHcRu6wq"
+            },
+            {
+                "name": "poingMACcaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne3lT6bY-UXRC7m"
+            },
+            {
+                "name": "poingMACcaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne4U9BvUfPwDATy"
+            },
+            {
+                "name": "pSCcaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne5sHmLyUwV34Ue"
+            },
+            {
+                "name": "pSCcaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne6Icqz-82jiIzv"
+            },
+            {
+                "name": "pSCcaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne8pAn2-ZVu8Jht"
+            },
+            {
+                "name": "pSCcaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne9LaVzZJSDWJiU"
+            },
+            {
+                "name": "pSCcaracteristiqueSPrecis",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne9LaVzZJSDWJiV"
+            },
+            {
+                "name": "mECcaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeAkexQSlZftGQa"
+            },
+            {
+                "name": "mECcaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeBlp013l95_Sxz"
+            },
+            {
+                "name": "mECcaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeCRgnBnwUl_3Fc"
+            },
+            {
+                "name": "mECcaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeDQ4-26WN8bnrk"
+            },
+            {
+                "name": "mECcaracteristiqueSPrecis",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeEYbUR1qQtnmbn"
+            },
+            {
+                "name": "pScaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeF6bD6u6EZ-WSU"
+            },
+            {
+                "name": "pScaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeGvQMbDzVsDiST"
+            },
+            {
+                "name": "pScaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeGvQMbDzVsDiSU"
+            },
+            {
+                "name": "pScaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeHbZ7_dVzSzl9_"
+            },
+            {
+                "name": "mEcaracteristique1Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeIf8hu4KrXlKld"
+            },
+            {
+                "name": "mEcaracteristique2Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeJecdi_fR8zxW1"
+            },
+            {
+                "name": "mEcaracteristique3Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeK2Z6JKx3y2fQU"
+            },
+            {
+                "name": "mEcaracteristique4Equipement",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeLCRilNLy1Eyvq"
+            },
+            {
+                "name": "utilisationArmeAI",
+                "current": "&{template:combat} {{portee=^{portee-contact}}}",
+                "max": "",
+                "id": "-N235NeN6_ChSlSAcAtm"
+            },
+            {
+                "name": "utilisationArmeAIPNJ",
+                "current": "&{template:combat} {{portee=^{portee-contact}}}",
+                "max": "",
+                "id": "-N235NeOuwj_ZITEa4VP"
+            },
+            {
+                "name": "caracteristique1Grenade",
+                "current": "0",
+                "max": "",
+                "id": "-N235NePEMT_RhJhwWOU"
+            },
+            {
+                "name": "caracteristique2Grenade",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeQuuQgWb1dPfR5"
+            },
+            {
+                "name": "caracteristique3Grenade",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeR235L5xZORrxp"
+            },
+            {
+                "name": "caracteristique4Grenade",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeStolzW3MidTVq"
+            },
+            {
+                "name": "caracteristique1MA",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeTG-vBIFtbRdtb"
+            },
+            {
+                "name": "caracteristique2MA",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeUNg9lyEAiQwwp"
+            },
+            {
+                "name": "caracteristique3MA",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeV66t-9sfNMvha"
+            },
+            {
+                "name": "caracteristique4MA",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeWu6pBznoJqeXt"
+            },
+            {
+                "name": "MAUtilisationArmeAI",
+                "current": "&{template:mechaArmure} {{special1=@{mechaArmureNom}}} {{portee=^{portee-contact}}}",
+                "max": "",
+                "id": "-N235NeX6kbW7BBEOowV"
+            },
+            {
+                "name": "canonMagmaCaracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeYySrO2zJOMeBm"
+            },
+            {
+                "name": "canonMagmaCaracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235Ne_FECWNjne5p4u"
+            },
+            {
+                "name": "canonMagmaCaracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nea0cHCvjvP2IlX"
+            },
+            {
+                "name": "canonMagmaCaracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235NebjEC68Gul1H7m"
+            },
+            {
+                "name": "MSurturCaracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NedFSDYiDvFrpxJ"
+            },
+            {
+                "name": "MSurturCaracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeeQ5Hh2wmkrYD-"
+            },
+            {
+                "name": "MSurturCaracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NefeJ6fR9mo-1MK"
+            },
+            {
+                "name": "MSurturCaracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235NehlHtOAggR_Udv"
+            },
+            {
+                "name": "DSouffleCaracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nei0xNg3zudKhd2"
+            },
+            {
+                "name": "DSouffleCaracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NekCSL1UXIUgjaq"
+            },
+            {
+                "name": "DSouffleCaracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NekCSL1UXIUgjar"
+            },
+            {
+                "name": "DSouffleCaracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235NemNvCWMMUwewMh"
+            },
+            {
+                "name": "caracteristiqueWraith1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NenHp69gImK-oTP"
+            },
+            {
+                "name": "caracteristiqueWraith2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeoKvHj34WvWxqu"
+            },
+            {
+                "name": "caracteristiqueWraith3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NerKdtV54F9oce_"
+            },
+            {
+                "name": "caracteristiqueWraith4",
+                "current": "0",
+                "max": "",
+                "id": "-N235NesZ8npN5D-TeG1"
+            },
+            {
+                "name": "APoingsCaracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235Net7HoY2EQRITzd"
+            },
+            {
+                "name": "APoingsCaracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeuEI4eS5_XwkhT"
+            },
+            {
+                "name": "APoingsCaracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeuEI4eS5_XwkhU"
+            },
+            {
+                "name": "APoingsCaracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nevde530TK5PWs7"
+            },
+            {
+                "name": "LCGCaracteristique1",
+                "current": "0",
+                "max": "",
+                "id": "-N235NewBwtdX-hVKl0q"
+            },
+            {
+                "name": "LCGCaracteristique2",
+                "current": "0",
+                "max": "",
+                "id": "-N235NeygYDLYfC-iBxN"
+            },
+            {
+                "name": "LCGCaracteristique3",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nez1uRiGXF1JGra"
+            },
+            {
+                "name": "LCGCaracteristique4",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf-HabwuSvLsl8J"
+            },
+            {
+                "name": "aspectPNJ",
+                "current": "@{Dame}",
+                "max": "",
+                "id": "-N235Nf-HabwuSvLsl8K"
+            },
+            {
+                "name": "pSCAspectPNJ",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf0GBZhvfb4lyYh"
+            },
+            {
+                "name": "mECAspectPNJ",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf1pCkZGlCpQxol"
+            },
+            {
+                "name": "pSAspectPNJ",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf2w6-F09JEeKvM"
+            },
+            {
+                "name": "mEAspectPNJ",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf2w6-F09JEeKvN"
+            },
+            {
+                "name": "aspectPNJGrenade",
+                "current": "0",
+                "max": "",
+                "id": "-N235Nf3el_bO8zrFLyX"
+            },
+            {
+                "name": "sans-armure-actuel",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfQILoDRmcZjSq2"
+            },
+            {
+                "name": "sans-armure-modif",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfSZWJCZgv7Wu56"
+            },
+            {
+                "name": "sans-energie-actuel",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfTppAB5cYpTUEj"
+            },
+            {
+                "name": "sans-energie-modif",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfVh9jHQkMkXj9Z"
+            },
+            {
+                "name": "sans-cdf-actuel",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfWxWaS31_gCEVk"
+            },
+            {
+                "name": "sans-cdf-modif",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfY6Ekrw6Xs8pSN"
+            },
+            {
+                "name": "defense",
+                "current": 1,
+                "max": "",
+                "id": "-N235Nf_jgC0X4-F6Mj2"
+            },
+            {
+                "name": "reaction",
+                "current": 1,
+                "max": "",
+                "id": "-N235NfbQvFzTjQONgqS"
+            },
+            {
+                "name": "monkVagueDegat",
+                "current": "3D6",
+                "max": "",
+                "id": "-N235NfcbuDJWJFcici6"
+            },
+            {
+                "name": "monkSalveDegat",
+                "current": "3D6",
+                "max": "",
+                "id": "-N235Nfe2nLm1473sIhn"
+            },
+            {
+                "name": "monkRayonDegat",
+                "current": "4D6",
+                "max": "",
+                "id": "-N235Nffw3_8Wz3Dv_bO"
+            },
+            {
+                "name": "monkRayonViolence",
+                "current": "2D6",
+                "max": "",
+                "id": "-N235Nfgt4WbP2izLwXw"
+            },
+            {
+                "name": "monkVagueEffets",
+                "current": "Parasitage 2 / Dispersion 3 / Destructeur / Choc 2",
+                "max": "",
+                "id": "-N235NfhZUpYxDTnhfRO"
+            },
+            {
+                "name": "monkSalveEffets",
+                "current": "Ultraviolence / Meurtrier / Dispersion 3 / Parasitage 1",
+                "max": "",
+                "id": "-N235NfiXImf9G1MW8Cd"
+            },
+            {
+                "name": "monkRayonEffets",
+                "current": "Parasitage 1 / Perce Armure 40",
+                "max": "",
+                "id": "-N235Nfj1trGHl009an5"
+            },
+            {
+                "name": "wizardBPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NfkX5tgLJPKynZa"
+            },
+            {
+                "name": "wizardOPortee",
+                "current": "Short",
+                "max": "",
+                "id": "-N235NflbtqaKe4Jt49A"
+            },
+            {
+                "name": "mechaArmureNom",
+                "current": "",
+                "max": "",
+                "id": "-N235NfnWp-b5Cltq-LP"
+            },
+            {
+                "name": "mechaArmureVitesse",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfnWp-b5Cltq-LQ"
+            },
+            {
+                "name": "mechaArmureManoeuvrabilite",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfpdE01r1WiAuKn"
+            },
+            {
+                "name": "mechaArmurePuissance",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfqWKln61l9_Uw7"
+            },
+            {
+                "name": "mechaArmureSenseurs",
+                "current": 0,
+                "max": "",
+                "id": "-N235Nfrh72JZjAj23Pg"
+            },
+            {
+                "name": "mechaArmureSystemes",
+                "current": 0,
+                "max": "",
+                "id": "-N235Nfs3bHeOaiHUbzU"
+            },
+            {
+                "name": "mechaArmureResilience",
+                "current": "",
+                "max": 0,
+                "id": "-N235Nft9ZdpgjXXLFvo"
+            },
+            {
+                "name": "mechaArmureBlindage",
+                "current": "",
+                "max": 0,
+                "id": "-N235NfvLJz2d7d7SKEt"
+            },
+            {
+                "name": "mechaArmureCdf",
+                "current": "",
+                "max": 0,
+                "id": "-N235NfvLJz2d7d7SKEu"
+            },
+            {
+                "name": "mechaArmureNoyauxEnergie",
+                "current": "",
+                "max": 0,
+                "id": "-N235NfxIlvluQIpH-nT"
+            },
+            {
+                "name": "mechaArmureJetBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235NfzNnOaTd4CzUfb"
+            },
+            {
+                "name": "mechaArmureJetBonusType",
+                "current": "",
+                "max": "",
+                "id": "-N235Ng-wKAVUjgofL0n"
+            },
+            {
+                "name": "longbowEnergie",
+                "current": "(Dépense d'énergie prévue : 0)",
+                "max": "",
+                "id": "-N235Ng0rlnFj8MgIxxF"
+            },
+            {
+                "name": "psionMalusA",
+                "current": "2D",
+                "max": "",
+                "id": "-N235NgiFu-fOkUeIpIx"
+            },
+            {
+                "name": "psionMalus",
+                "current": 2,
+                "max": "",
+                "id": "-N235NgjiwlylbCtQZG_"
+            },
+            {
+                "name": "calODDep",
+                "current": 0,
+                "max": "",
+                "id": "-N235Ngmmwa1Zi9UZaLg"
+            },
+            {
+                "name": "calODFor",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgoDgeKHz0zkhdc"
+            },
+            {
+                "name": "calODEnd",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgpMvhA7ovMl4I5"
+            },
+            {
+                "name": "calODHar",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgpMvhA7ovMl4I6"
+            },
+            {
+                "name": "calODCom",
+                "current": 0,
+                "max": "",
+                "id": "-N235Ngq75_kJ3P8e95n"
+            },
+            {
+                "name": "calODIns",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgrbIYYrtYDorOv"
+            },
+            {
+                "name": "calODTir",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgsqzAMrpvlgVne"
+            },
+            {
+                "name": "calODSav",
+                "current": 0,
+                "max": "",
+                "id": "-N235NguTGxZW8EZmBK6"
+            },
+            {
+                "name": "calODTec",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgvGcZ6CKLBUq6s"
+            },
+            {
+                "name": "calODAur",
+                "current": 0,
+                "max": "",
+                "id": "-N235Ngx1Y9DZ55crLKJ"
+            },
+            {
+                "name": "calODPar",
+                "current": 0,
+                "max": "",
+                "id": "-N235Ngx1Y9DZ55crLKK"
+            },
+            {
+                "name": "calODSFR",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgyJGj-PGYDmOg-"
+            },
+            {
+                "name": "calODDis",
+                "current": 0,
+                "max": "",
+                "id": "-N235NgzA-YnPqIFDkJm"
+            },
+            {
+                "name": "calODPer",
+                "current": 0,
+                "max": "",
+                "id": "-N235Nh-QsvFGrgvIV_r"
+            },
+            {
+                "name": "calODDex",
+                "current": 0,
+                "max": "",
+                "id": "-N235Nh09v-m5_1Xe2Eq"
+            },
+            {
+                "name": "ptsFaibles",
+                "current": "",
+                "max": "",
+                "id": "-N235Nh2mdWRuB27X3oE"
+            },
+            {
+                "name": "initiativeODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235Nh32vBfIOu1taU8"
+            },
+            {
+                "name": "fichePNJ",
+                "current": "2",
+                "max": "",
+                "id": "-N235Oh_BSzwhrG65gv_"
+            },
+            {
+                "name": "tab",
+                "current": "combat",
+                "max": "",
+                "id": "-N235Ojk-spJrond1i3U"
+            },
+            {
+                "name": "armure",
+                "current": "sans",
+                "max": "",
+                "id": "-N235OjlRJZs2EAIsVwv"
+            },
+            {
+                "name": "panneauInformation",
+                "current": "",
+                "max": "",
+                "id": "-N235OjtX7TUcSWwCjHq"
+            },
+            {
+                "name": "defenseModif",
+                "current": 0,
+                "max": "",
+                "id": "-N235OkApqvvhmoksXJZ"
+            },
+            {
+                "name": "defenseTotal",
+                "current": 4,
+                "max": "",
+                "id": "-N235OkBQJ0nrp2856oE"
+            },
+            {
+                "name": "mechaArmureDefense",
+                "current": 0,
+                "max": "",
+                "id": "-N235OkCZ0abiaYZefgB"
+            },
+            {
+                "name": "reactionModif",
+                "current": 0,
+                "max": "",
+                "id": "-N235OkEpSFsJZoZuk8Q"
+            },
+            {
+                "name": "reactionTotal",
+                "current": 3,
+                "max": "",
+                "id": "-N235OkFqmRhFEJRxZ9M"
+            },
+            {
+                "name": "mechaArmureReaction",
+                "current": 0,
+                "max": "",
+                "id": "-N235OkGyB7qpV9aqp7F"
+            },
+            {
+                "name": "armurePJ",
+                "current": 0,
+                "max": 0,
+                "id": "-N235OmNLf7rOHHaW1Vt"
+            },
+            {
+                "name": "armurePJModif",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmOc2zXTVO_5d-G"
+            },
+            {
+                "name": "energiePJ",
+                "current": 0,
+                "max": 0,
+                "id": "-N235OmPtwDkcOCwzZX1"
+            },
+            {
+                "name": "energiePJModif",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmQua6lpNGuayES"
+            },
+            {
+                "name": "cdfPJ",
+                "current": 0,
+                "max": 0,
+                "id": "-N235OmRAlOWI6VJPtAI"
+            },
+            {
+                "name": "cdfPJModif",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmTEt-1CbRTzTFI"
+            },
+            {
+                "name": "barbarianGoliath",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmTEt-1CbRTzTFJ"
+            },
+            {
+                "name": "berserkIlluminationBeaconA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmUtfGdiUv-q5I0"
+            },
+            {
+                "name": "berserkIlluminationTorchA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmUtfGdiUv-q5I1"
+            },
+            {
+                "name": "berserkIlluminationProjectorA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmVSvYUwa9Bhc5q"
+            },
+            {
+                "name": "berserkIlluminationLighthouseA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmY8N3i-TWbjEkF"
+            },
+            {
+                "name": "berserkIlluminationLanternA",
+                "current": 0,
+                "max": "",
+                "id": "-N235Om_maFTNaNZ35Mz"
+            },
+            {
+                "name": "berserkRageA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmaIE7ijmnCd2O6"
+            },
+            {
+                "name": "shamanNbreTotem",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omc8upSsgD3ooip"
+            },
+            {
+                "name": "shamanAscension",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmdFynzg9R80Djn"
+            },
+            {
+                "name": "sorcererMMVolNuee",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmejzqWczzqZEZ1"
+            },
+            {
+                "name": "sorcererMMPhase",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmfhiCR4Uhu7BbA"
+            },
+            {
+                "name": "sorcererMMEtirement",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmgwVxCXTlEmjqy"
+            },
+            {
+                "name": "sorcererMMCorpMetal",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmizOu4YGVjK3N_"
+            },
+            {
+                "name": "sorcererMMCorpFluide",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmjS3iYV317969u"
+            },
+            {
+                "name": "sorcererMMPMGuerre",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omlba74Yn9uCmc5"
+            },
+            {
+                "name": "sorcererMM250PG",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmmfX3MvSbaQb_M"
+            },
+            {
+                "name": "warlockForward",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omnp02_oyydm5-g"
+            },
+            {
+                "name": "warlockRecord",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmolsKhBcaYLQAh"
+            },
+            {
+                "name": "warlockRewind",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmpuqU8LNG2MeK_"
+            },
+            {
+                "name": "warmasterImpFPersonnel",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmpuqU8LNG2MeKa"
+            },
+            {
+                "name": "warmasterImpGPersonnel",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmqKrV1nbq2pzRV"
+            },
+            {
+                "name": "warriorSoldierA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmqKrV1nbq2pzRW"
+            },
+            {
+                "name": "warriorHunterA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmrJIroiMx0Eqic"
+            },
+            {
+                "name": "warriorScholarA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmrJIroiMx0Eqid"
+            },
+            {
+                "name": "warriorHeraldA",
+                "current": 0,
+                "max": "",
+                "id": "-N235Oms_srXlEJITElf"
+            },
+            {
+                "name": "warriorScoutA",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omt1bFdb8bVsZwN"
+            },
+            {
+                "name": "MALShamanNbreTotem",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omt1bFdb8bVsZwO"
+            },
+            {
+                "name": "MALWarriorSoldierA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmuGSSlEyCpdsUN"
+            },
+            {
+                "name": "MALWarriorHunterA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmvxlPutpfNPzpc"
+            },
+            {
+                "name": "MALWarriorScholarA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmwsyMA5GuQfBQ4"
+            },
+            {
+                "name": "MALWarriorHeraldA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmwsyMA5GuQfBQ5"
+            },
+            {
+                "name": "MALWarriorScoutA",
+                "current": 0,
+                "max": "",
+                "id": "-N235OmxE9fGhBQ8HNUE"
+            },
+            {
+                "name": "MALWarmasterImpFPersonnel",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omy7Ra1fK7IX454"
+            },
+            {
+                "name": "MALWarmasterImpGPersonnel",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omy7Ra1fK7IX455"
+            },
+            {
+                "name": "MALRogueGhost",
+                "current": 0,
+                "max": "",
+                "id": "-N235Omz6hJ0cE-ao_1f"
+            },
+            {
+                "name": "rogueGhost",
+                "current": 0,
+                "max": "",
+                "id": "-N235On-0juehhx_Nf0V"
+            },
+            {
+                "name": "bardChangeling",
+                "current": 0,
+                "max": "",
+                "id": "-N235On-0juehhx_Nf0W"
+            },
+            {
+                "name": "MALBarbarianGoliath",
+                "current": 0,
+                "max": "",
+                "id": "-N235On0Ls_1HMrcWfKn"
+            },
+            {
+                "name": "slotTeteMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On1ABr3Hq2jb0iS"
+            },
+            {
+                "name": "slotTorseMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On2oii_OWXNxli7"
+            },
+            {
+                "name": "slotJGMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On2oii_OWXNxli8"
+            },
+            {
+                "name": "slotJDMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On33kt2BxI6dYWP"
+            },
+            {
+                "name": "slotBGMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On4tF2TykqoDKOI"
+            },
+            {
+                "name": "slotBDMax",
+                "current": 0,
+                "max": "",
+                "id": "-N235On5mo3OzrUpkAPx"
+            },
+            {
+                "name": "santeODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235On6jAnhBuEcid0x"
+            },
+            {
+                "name": "reactionODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235On78RHWRkKVq1rW"
+            },
+            {
+                "name": "akimboContactODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235On8uv0YAMT_AJ85"
+            },
+            {
+                "name": "ambidextrieContactODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235On8uv0YAMT_AJ86"
+            },
+            {
+                "name": "akimboDistanceODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235OnAcC6ApuRS3QoE"
+            },
+            {
+                "name": "ambidextrieDistanceODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235OnBLYLG78On2i7A"
+            },
+            {
+                "name": "defenseODBonus",
+                "current": 0,
+                "max": "",
+                "id": "-N235OnCed74kyaYwftJ"
+            },
+            {
+                "name": "discretionDegatsBonus",
+                "current": "",
+                "max": "",
+                "id": "-N235OnDMoRsbxJCFLZn"
+            },
+            {
+                "name": "armureAscension",
+                "current": "",
+                "max": 60,
+                "id": "-N235Oql2nkcddxkGVt8"
+            },
+            {
+                "name": "barbarianDef",
+                "current": 0,
+                "max": "",
+                "id": "-N235Oqnz15x3HBtWGzS"
+            },
+            {
+                "name": "barbarianRea",
+                "current": 0,
+                "max": "",
+                "id": "-N235OqoVtYdy4ht872B"
+            },
+            {
+                "name": "barbarianDegat",
+                "current": "0D6",
+                "max": "",
+                "id": "-N235OqpcqyyEF5afleP"
+            },
+            {
+                "name": "MALBarbarianDef",
+                "current": 0,
+                "max": "",
+                "id": "-N235OqtcpzDzSZXaMZ-"
+            },
+            {
+                "name": "MALBarbarianRea",
+                "current": 0,
+                "max": "",
+                "id": "-N235Oqu2f2FQAFtKG9y"
+            },
+            {
+                "name": "MALBarbarianDegat",
+                "current": "0D6",
+                "max": "",
+                "id": "-N235OqvYHCe0KHsCDHs"
+            },
+            {
+                "name": "show_settings",
+                "current": "0",
+                "max": "",
+                "id": "-N237W_dEyZdwhKq_Lvu"
+            },
+            {
+                "name": "typePNJ",
+                "current": "Hostile",
+                "max": "",
+                "id": "-N2ref_D5EaZzELxP6YU"
+            },
+            {
+                "name": "Chair",
+                "current": "4",
+                "max": "",
+                "id": "-N2remPhKsRT9lFhEUvk"
+            },
+            {
+                "name": "bete",
+                "current": "8",
+                "max": "",
+                "id": "-N2renjnXgV5drDgvQPE"
+            },
+            {
+                "name": "BetePNJAE",
+                "current": "2",
+                "max": "",
+                "id": "-N2reo2c--KuYkoeamxD"
+            },
+            {
+                "name": "machine",
+                "current": "2",
+                "max": "",
+                "id": "-N2reou-RNIcwg4jDi2o"
+            },
+            {
+                "name": "dame",
+                "current": "1",
+                "max": "",
+                "id": "-N2repxuBc9qxqv8nngw"
+            },
+            {
+                "name": "masque",
+                "current": "5",
+                "max": "",
+                "id": "-N2rerBUvEggUEtyy96s"
+            },
+            {
+                "name": "expandDefense",
+                "current": "0",
+                "max": "",
+                "id": "-N2reu80v7EnfdbrnYav"
+            },
+            {
+                "name": "defensePNJ",
+                "current": "4",
+                "max": "",
+                "id": "-N2rexSM0h4EhEsIl_aF"
+            },
+            {
+                "name": "expandReaction",
+                "current": "0",
+                "max": "",
+                "id": "-N2rexjo_wFIPTdnBb8n"
+            },
+            {
+                "name": "reactionPNJ",
+                "current": "3",
+                "max": "",
+                "id": "-N2reyXUjMxc8MhhCoWf"
+            },
+            {
+                "name": "expandInitiative",
+                "current": "0",
+                "max": "",
+                "id": "-N2rezmeSBJvc-VQGjoF"
+            },
+            {
+                "name": "diceInitiative",
+                "current": "2",
+                "max": "",
+                "id": "-N2rf-c2WQ3TineRB52D"
+            },
+            {
+                "name": "santePNJ",
+                "current": "20",
+                "max": "20",
+                "id": "-N2rf1czarQJqPsRo6P7"
+            },
+            {
+                "name": "popup",
+                "current": 0,
+                "max": "",
+                "id": "-N2rf3Y26Sr_d2-pAuas"
+            },
+            {
+                "name": "listeTypePNJ",
+                "current": "1",
+                "max": "",
+                "id": "-N2rf5f7samfCcukG69N"
+            },
+            {
+                "name": "resilience",
+                "current": "",
+                "max": "",
+                "id": "-N2rf6V3wOUmljGFFCGW"
+            },
+            {
+                "name": "tabMelee",
+                "current": "0",
+                "max": "",
+                "id": "-N2rjqZPljZPgAIIgywC"
+            },
+            {
+                "name": "tabDistance",
+                "current": "0",
+                "max": "",
+                "id": "-N2rjqiHKptnPkrcbm6d"
+            },
+            {
+                "name": "tabArmesImprovisees",
+                "current": "0",
+                "max": "",
+                "id": "-N2rjqrItkw_e4ud6d64"
+            },
+            {
+                "name": "tabEquipementDefensif",
+                "current": "0",
+                "max": "",
+                "id": "-N2rjrA3tH3lxXVyRONU"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_ArmeAutre",
+                "current": "Griffe+charge",
+                "max": "",
+                "id": "-N2rjwItykZaG-NM_01l"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeAutreDegat",
+                "current": "5",
+                "max": "",
+                "id": "-N2rjy4B2I38ac4hh4xQ"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeAutreBDegat",
+                "current": "8",
+                "max": "",
+                "id": "-N2rjzDHRsZcweXC4pDi"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeAutreViolence",
+                "current": "0",
+                "max": "",
+                "id": "-N2rjzd5wf-csPl1waR_"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjzuJBf3FaZo7vB63_ArmeAutre",
+                "current": "Griffe",
+                "max": "",
+                "id": "-N2rk01d2bE0ZZvirmro"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjzuJBf3FaZo7vB63_armeAutreDegat",
+                "current": "5",
+                "max": "",
+                "id": "-N2rk0nt8BQInyBSK9Jh"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjzuJBf3FaZo7vB63_armeAutreBDegat",
+                "current": "2",
+                "max": "",
+                "id": "-N2rk1LQdSlBntpGIFj5"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeAutreBViolence",
+                "current": "0",
+                "max": "",
+                "id": "-N2rk2q-8mdmLj8ryov4"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeAttaqueAutre",
+                "current": "8",
+                "max": "",
+                "id": "-N2rk4juKZLvZnlfXn6J"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjrZL3mBgXowCe7px_armeODAutre",
+                "current": "2",
+                "max": "",
+                "id": "-N2rk5HTuEpxkbK57SKT"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjzuJBf3FaZo7vB63_armeAttaqueAutre",
+                "current": "8",
+                "max": "",
+                "id": "-N2rk5mNf8KUQkNDSAna"
+            },
+            {
+                "name": "repeating_armeautre_-N2rjzuJBf3FaZo7vB63_armeODAutre",
+                "current": "2",
+                "max": "",
+                "id": "-N2rk6Zdnw8vPt531AVG"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_armeAutreDegat",
+                "current": "3",
+                "max": "",
+                "id": "-N2rqLPAirJehBuM8UyC"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_armeAutrePortee",
+                "current": "Moyenne",
+                "max": "",
+                "id": "-N2rqLjVjMLtn4ZPCw5S"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_armeAttaqueAutre",
+                "current": "8",
+                "max": "",
+                "id": "-N2rqNEQjEyHis5rGpyi"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_armeODAutre",
+                "current": "2",
+                "max": "",
+                "id": "-N2rqNn3V4YWTgfpzExz"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_armeautreoptions",
+                "current": "0",
+                "max": "",
+                "id": "-N2rqOSiFNRQKjcqCIg_"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_anatheme",
+                "current": "{{anatheme=Anathème}}",
+                "max": "",
+                "id": "-N2rqPHTUhuEP_ww2R1i"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_chocValue",
+                "current": "1",
+                "max": "",
+                "id": "-N2rqQm7jPyESYcsWsdU"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_choc",
+                "current": "{{choc=^{choc} @{chocValue}}}",
+                "max": "",
+                "id": "-N2rqQncqQio1tz15p7z"
+            },
+            {
+                "name": "repeating_armeautre_-N2rqJ-DEFMLsPuXfngL_ArmeAutre",
+                "current": "Flot Ténèbres",
+                "max": "",
+                "id": "-N2rqV1l7GRCd87ZG_Xf"
+            },
+            {
+                "name": "jetModifDes",
+                "current": "0",
+                "max": "",
+                "id": "-N2ruQc2TjE39Wt4zG0d"
+            },
+            {
+                "name": "repeating_capacites_-N69zQJurTZEKb7Ppduy_nomCapacite",
+                "current": "Module (saut nv1) : ",
+                "max": "",
+                "id": "-N69zSv7BX_9h6h1efsH"
+            },
+            {
+                "name": "repeating_capacites_-N69zQJurTZEKb7Ppduy_descCapacite",
+                "current": "Le PNJ bénéficie de l’équivalent du module saut au niveau 1.",
+                "max": "",
+                "id": "-N69zTDkaMeRXqly0PZ1"
+            },
+            {
+                "name": "tabCapaciteArmure",
+                "current": "5",
+                "max": "",
+                "id": "-N69zUbuRYNOMjNGYUPk"
+            }
+        ],
+        "abilities": []
+    }
+}
